@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  line-height: 1.7;
+  background-color: #dfe6e9;
+  }
+
+.splash {
+  width: 60%;
+  margin: 0 auto;
+  padding: 0 auto;
+  margin-bottom: 96px;
+  Font-Family: 'Cormorant Garamond', Serif;
+  font-size: 55px;
+  background-color: #b2bec3;
+}
+
+.poem {
+  max-width: 1140px;
+  margin: auto;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.intro {
+  width: 50%;
+  Font-Family: 'Cormorant Garamond', Serif;
+  font-size: 40px;
+  background-color: #aaa69d;
+}
+
+.stanza {
+  max-width: 500px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  Font-Family: 'Fira Sans', Sans-Serif;
+  font-size: 25px;
+}
+footer{
+  margin: 0;
+  max-width: 300px;
+  display: flex;
+  justify-content: flex-end;
+  background-color: #d1ccc0;
+}
+.footer-menu li{
+  display: inline;
+  list-style-type: none;
+  Font-Family: 'Cormorant Garamond', Serif;
+  font-size: 20px;
+  color: #636e72;
+}
+
+i{
+  font-size: 25px;
+  margin-right: 15px;
+  color: #2d3436;
+}
+
+a{
+  text-decoration: none;
+}
